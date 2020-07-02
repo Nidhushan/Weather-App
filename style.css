@@ -1,0 +1,22 @@
+#city-input,
+#weather-output {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.banner {
+  color: #ffd23f;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url("https://genesishomeadvisors.com/x/cdn/?https://storage.googleapis.com/production-sitebuilder-v1-0-7/177/228177/BRwPDXbR/0c7519f7dff34e7db94eb68b7e99aa63");
+  background-size: cover;
+}
+
+#weather-img {
+  height: 50px;
+  width: 60px;
+  border-radius: 10px;
+  background-color: grey;
+}
